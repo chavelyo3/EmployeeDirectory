@@ -16,7 +16,7 @@
         border-color: black;
         grid-template-columns: 10% 10% 10% 10% 10% 10% 10% 10% 10% 10% ;
         grid-template-rows: 15px; 
-        background-color: white;
+        background-color: beige;
     }
     
     .squarewhite {
@@ -28,5 +28,5 @@
     .squaregrey {
         width: 60px;
         height: 15px;
-        background-color: darkslateblue;
+        background-color: rgb(27, 3, 179);
     }
